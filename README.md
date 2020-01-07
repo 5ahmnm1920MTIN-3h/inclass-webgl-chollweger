@@ -1,13 +1,13 @@
-# Template Repository for Unity2D version 2019.1.14f1
+# InClass-WebGL-Carolin Hollweger
 
 ### Project description: 
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+macOS Mojave Version 10.14.4, Unity Version 2019.1.14f1
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
 Screenshots (concept and experience), Video
