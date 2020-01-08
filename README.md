@@ -4,10 +4,14 @@
 Introduction/Project summary 
 
 ### Development platform: 
-macOS Mojave Version 10.14.4, Unity Version 2019.1.14f1
+macOS Mojave Version 10.14.4
+Unity Version 2019.1.14f1
+Visual Studio Version: Visual Studio Community 2019 16.3.10
+Scripting Runtime Version: .NET 4.x Equivalent
+API Compatibility Level: .NET Standard 2.0
 
 ### Target platform: 
-WebGL
+WebGL, Mobile, VR Device incl. reference resolution: 3:2
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -19,10 +23,14 @@ Installation process, e.g. step by step instructions that I can run the project 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
+80 %
 
 ### Limitations: 
+no limitations
 
 ### Lessons Learned: 
+Switch platform from Standalone to WebGL
+Build WebGL
+GitHub Pages, with docs
 
-Copyright by you :)
+Copyright by chollweger
