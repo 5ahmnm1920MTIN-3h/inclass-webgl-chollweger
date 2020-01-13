@@ -26,7 +26,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 80 %
 
 ### Limitations: 
-no limitations
+can't download WebGL because of undefiened problems, I do not have time to fix this problem so..
 
 ### Lessons Learned: 
 Switch platform from Standalone to WebGL
